@@ -1,7 +1,10 @@
 # Linear-Regression-Model
 
-Description and Requirements 
+
+**Description and Requirements **
+
 In the assignment, you are given a dataset. You need to implement the gradient descent algorithm to estimate (train) the weights of the linear regression model. You must use Python programming language with Jupyter Notebook. Split the given dataset into two training and test with a ratio of 8:2. Use the training set to estimate the weights and the test set to evaluate the linear regression model with the estimated weights.
+
 
 Define at least three (3) functions as follows
 
@@ -34,6 +37,7 @@ y: responses
 Returns:
  loss: loss value
  """
+
 
 Display the training loss value for each epoch of the training loop.
 Display the estimated weights (after model training).
